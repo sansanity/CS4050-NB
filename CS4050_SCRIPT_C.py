@@ -1,4 +1,4 @@
-# Script C: Model Tuning and Feature Importance Measures with Permutation Importance
+# Script C: Model Tuning and Model Evaluation with question_movie.csv
 # DISCLAIMER: THE BELOW CODE TAKES AWHILE TO RUN. 
 import pandas as pd
 import numpy as np
